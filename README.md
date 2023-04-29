@@ -5,13 +5,13 @@
 - 🌱 I’m currently pursuing Bachelor's Degree in Information Technology</br>
 - 📫 You can reach me on my social media accounts <a href="https://linktr.ee/vedantfar">here</a>.</p></br></br>
 
-<!-- <p align=left><img align="center" src="https://github-readme-stats.vercel.app/api?username=varospaxo&show_icons=true&locale=en&theme=transparent" alt="varospaxo" /></p> -->
+<!-- <p align=left><img align="center" src="https://github-readme-stats.vercel.app/api?username=MACK3Y&show_icons=true&locale=en&theme=transparent" alt="Mackey" /></p> -->
 
-<!-- <p align=left><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varospaxo&layout=compact&hide=html&theme=transparent" alt="varospaxo" /></p> -->
+<!-- <p align=left><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACK3Y&layout=compact&hide=html&theme=transparent" alt="Mackey" /></p> -->
 
 
 <!---
-varospaxo/varospaxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MACK3Y/mack3y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
