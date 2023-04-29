@@ -4,7 +4,7 @@
 <p>- 👋 Hi, I’m <a href="https://github.com/MACK3Y/">Mackey</a></br>
 - 👀 I’m interested in Web Development / Full Stack Development</br>
 - 🌱 I’m currently pursuing Bachelor's Degree in Information Technology</br>
-- 📫 You can reach me on my social media accounts <a href="https://linktr.ee/mack3y">here</a>.</p></br></br>
+- 📫 You can reach me on my social media accounts <a href="https://linktr.ee/mack3y" target="_blank">here</a>.</p></br></br>
 
 <!-- <p align=left><img align="center" src="https://github-readme-stats.vercel.app/api?username=MACK3Y&show_icons=true&locale=en&theme=transparent" alt="Mackey" /></p> -->
 
